@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>09c9bd3e-03a4-48a2-8757-d8991cf3f7d8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CS01-Grading.py</StartupFile>
+    <StartupFile>CS01-8.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="CS01-8.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="CS01-A+B_Problem.py">
       <SubType>Code</SubType>
     </Compile>
