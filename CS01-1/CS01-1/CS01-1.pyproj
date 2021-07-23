@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>09c9bd3e-03a4-48a2-8757-d8991cf3f7d8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CS01-6.py</StartupFile>
+    <StartupFile>CS01-Grading.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
     <Compile Include="CS01-A+B_Problem.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="CS01-Grading.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="CS01_1.py" />
     <Compile Include="CS01_2.py">
       <SubType>Code</SubType>
@@ -37,6 +40,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="CS01-6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CS01-7.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
