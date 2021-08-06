@@ -4,14 +4,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>09c9bd3e-03a4-48a2-8757-d8991cf3f7d8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CS01-10.py</StartupFile>
+    <StartupFile>CS01-14.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>CS01-1</Name>
     <RootNamespace>CS01-1</RootNamespace>
-    <InterpreterId>Global|PythonCore|3.8</InterpreterId>
+    <InterpreterId>Global|PythonCore|3.9</InterpreterId>
     <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -24,6 +24,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="CS01-10.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CS01-12.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CS01-13.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CS01-14.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="CS01-8.py">
@@ -57,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.8" />
+    <InterpreterReference Include="Global|PythonCore|3.9" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
