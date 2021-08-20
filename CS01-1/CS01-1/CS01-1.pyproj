@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>09c9bd3e-03a4-48a2-8757-d8991cf3f7d8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CS01-14.py</StartupFile>
+    <StartupFile>CS01-15.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -33,6 +33,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="CS01-14.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CS01-15.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CS01-16.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="CS01-8.py">
