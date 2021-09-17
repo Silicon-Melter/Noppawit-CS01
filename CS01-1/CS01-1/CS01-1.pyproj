@@ -44,6 +44,9 @@
     <Compile Include="CS01-16.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="CS01-18.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="CS01-8.py">
       <SubType>Code</SubType>
     </Compile>
